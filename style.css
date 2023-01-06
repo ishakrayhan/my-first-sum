@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-image: url('images/donation1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    padding: relative;
+}
+
+.nav-header{
+   text-align: center;
+
+  
+}
+.nav-h1{
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 70px;
+}
+.nav-h2{
+    font-size: 40px;
+    color: aliceblue;
+    padding-bottom: 30px;
+}
+.nav-p{
+    color: aliceblue;
+}
+.nav-btn{
+    height: 50px;
+    width: 150px;
+    font-weight: bolder;
+    background-color: orange;
+    margin-top: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+
+/* section start */
+
+.m-section{
+    margin-top: 240px;
+  text-align: center;
+}
+.section-div{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    margin-top: 30px;
+align-items: center;
+padding-left: 200px;
+}
+.a-btn{
+    height: 140px;
+    width: 180px;
+    gap: 30px;
+    font-size: 30px;
+    color: gray;
+    font-weight: bold;
+}
+.s-btn{
+    height: 140px;
+    width: 180px;
+    gap: 30px;
+    font-size: 30px;
+    color: orangered;
+    background-color: #f4b199 ;
+    border: 2px solid orangered;
+    font-weight: bolder;
+}
+
+/* end */
+
+
+/* section2 */
+.section-2{
+    text-align: center;
+    margin-top: 130px;
+  
+}
+.s-p{
+    padding: 30px 200px;
+}
+
+.section2-div{
+    display: flex;
+padding-left: 150px;
+}
+.div-chil{
+    height: 300px;
+    width: 250px;
+    gap: 30px;
+    
+    border: 2px solid #1a1817;
+    margin: 30px 50px;
+    background-color: #f4b199;
+    align-items: center;
+}
+
+.input-div{
+    display: flex;
+    margin: 50px 300px;
+    align-items: center;
+    padding: 50px 150px;
+    background-color: cornsilk;
+}
+.input{
+    height: 50px;
+    width: 250px;
+   
+  
+    
+
+}
+.int-btn{
+height: 50px;
+width: 150px;
+color: white;
+background-color:orange;
+text-align: center;
+}
+
+
+.footer{
+    background-color: rgb(16, 16, 23);
+    text-align: center;
+    height: 180px;
+}
+
+.ftr-h2{
+    color: brown;
+    
+
+}
+.ftr-p{
+    color: aliceblue;
+}
+
+
+/* .mn-p{
+ margin: 100px 200px;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    background-color: brown;
+} */
+
+
+.mn-div{
+ display: flex;
+ margin: 130px 60px;
+ gap: 50px;
+}
+.mn-chl-div{
+    text-align: center;
+    height: 500px;
+    width: 650px;
+}
+
+   
+
+.mn-chl2-div{
+    height: 400px;
+    width: 500px;
+    text-align: center;
+}
+.mn-chl-div a img{
+    height: 500px;
+    width: 600px;
+}
+
+.mn-btn{
+    width: 250px;
+    height: 55px;
+    font-weight: bolder;
+    font-size: 24px;
+    background-color: brown;
+
+}
+.mn-h2{
+font-size: 80px;
+}
+
